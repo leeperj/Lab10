@@ -1,0 +1,11 @@
+C:\Users\josep\source\repos\CircleTime\CircleTime\obj\Debug\netcoreapp2.1\CircleTime.csprojAssemblyReference.cache
+C:\Users\josep\source\repos\CircleTime\CircleTime\obj\Debug\netcoreapp2.1\CircleTime.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\CircleTime\CircleTime\obj\Debug\netcoreapp2.1\CircleTime.AssemblyInfoInputs.cache
+C:\Users\josep\source\repos\CircleTime\CircleTime\obj\Debug\netcoreapp2.1\CircleTime.AssemblyInfo.cs
+C:\Users\josep\source\repos\CircleTime\CircleTime\bin\Debug\netcoreapp2.1\CircleTime.deps.json
+C:\Users\josep\source\repos\CircleTime\CircleTime\bin\Debug\netcoreapp2.1\CircleTime.runtimeconfig.json
+C:\Users\josep\source\repos\CircleTime\CircleTime\bin\Debug\netcoreapp2.1\CircleTime.runtimeconfig.dev.json
+C:\Users\josep\source\repos\CircleTime\CircleTime\bin\Debug\netcoreapp2.1\CircleTime.dll
+C:\Users\josep\source\repos\CircleTime\CircleTime\bin\Debug\netcoreapp2.1\CircleTime.pdb
+C:\Users\josep\source\repos\CircleTime\CircleTime\obj\Debug\netcoreapp2.1\CircleTime.dll
+C:\Users\josep\source\repos\CircleTime\CircleTime\obj\Debug\netcoreapp2.1\CircleTime.pdb
